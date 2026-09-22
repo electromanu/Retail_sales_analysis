@@ -58,6 +58,7 @@ The dashboard contains:
 - Profit by Category
 - Profit by State
 - Year and Category filters
+<img width="1317" height="827" alt="image" src="https://github.com/user-attachments/assets/1a6eeff9-c344-4cb9-b658-0d2b7d774b01" />
 
 ## Data Quality Note
 
